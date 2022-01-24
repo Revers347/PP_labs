@@ -1,2 +1,11 @@
-flask
+alembic
+coverage
+Flask
+Flask-Bcrypt
+Flask-HTTPAuth
+marshmallow
+PyMySQL
+pytest
+requests
+SQLAlchemy
 waitress
